@@ -2,6 +2,7 @@
 ##to calculate inverse several times, so these functions can cache the inverse
 ##so we can use in the future without recalculate it
 
+
 ## "makeCacheMatrix" is the function that can cache the inverse of an input matrix
 
 makeCacheMatrix <- function(x = matrix()) {
